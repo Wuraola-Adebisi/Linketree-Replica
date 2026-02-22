@@ -1,6 +1,6 @@
-# Linketree Dupe
+# Linketree Replica
 
 A Pen created on CodePen.
 
-Original URL: [https://codepen.io/Wuraola-Adebisi/pen/myrbEYp](https://codepen.io/Wuraola-Adebisi/pen/myrbEYp).
+Original URL:https://wuraola-adebisi.github.io/Linketree-Dupe/.
 
